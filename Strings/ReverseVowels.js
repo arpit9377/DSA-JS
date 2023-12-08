@@ -23,5 +23,4 @@ var reverseVowels = function(s) {
     return result;
 };
 
-// Test the function
 console.log(reverseVowels("hello"));

@@ -10,7 +10,7 @@ var canPlaceFlowers = function(flowerbed, n) {
             }
         }
     }
-    return n<=0;
+    return n<=0; 
    
 };
 var flowerbed=[0,0,1,0,0]; 
